@@ -1,0 +1,10 @@
+{
+    "require": {
+        "ren1244/pdfwriter": "dev-main#3e2e833a1973a1b9133d6443f1b1b61c58b3e862"
+    },
+    "autoload": {
+        "files": [
+            "bootstrap.php"
+        ]
+    }
+}
