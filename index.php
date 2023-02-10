@@ -21,6 +21,9 @@
         <li>
             <a href="envelope.php" target="__blank">中文直式信封</a>
         </li>
+        <li>
+            <a href="envelope-svg.php" target="__blank">中文直式信封(匯入 SVG 版本)</a>
+        </li>
     </ul>    
 </body>
 </html>
